@@ -120,7 +120,7 @@ AI-Fraud-Detection-System/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <26Ritika>
 cd AI-Fraud-Detection-System
 ```
 
@@ -186,16 +186,6 @@ The project compares the following algorithms:
 - XGBoost
 
 The best model is selected based on validation Precision-Recall AUC (PR-AUC).
-
-### Model Artifact
-
-The trained model is saved at:
-
-```text
-models/fraud_detection_model.joblib
-```
-
-The artifact contains the trained model, preprocessing information, classification threshold, feature names, and evaluation metadata.
 
 ## Model Evaluation
 
